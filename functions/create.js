@@ -9,7 +9,7 @@ module.exports= {
         var bot = await Bots.create({
             id: id,
             color: "#FF69B4",
-            status: ".gg/babyboos",
+            status: ".gg/x",
             boosterRole: "967876333029957773"
         })
         return bot;
